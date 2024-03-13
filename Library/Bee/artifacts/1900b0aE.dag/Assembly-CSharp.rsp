@@ -348,6 +348,10 @@
 "Assets/Character/Scripts/FlyBehaviour.cs"
 "Assets/Character/Scripts/MoveBehaviour.cs"
 "Assets/Character/Scripts/ThirdPersonOrbitCamBasic.cs"
+"Assets/Item.cs"
+"Assets/PickupItem.cs"
+"Assets/Scripts/Inventory.cs"
+"Assets/Scripts/ItemData.cs"
 -langversion:9.0
 
 /deterministic
